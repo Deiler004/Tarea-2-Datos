@@ -1,0 +1,28 @@
+C:\Users\St Villagra\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.exe
+C:\Users\St Villagra\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.deps.json
+C:\Users\St Villagra\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.runtimeconfig.json
+C:\Users\St Villagra\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.dll
+C:\Users\St Villagra\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.pdb
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.AssemblyInfoInputs.cache
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.AssemblyInfo.cs
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.csproj.CoreCompileInputs.cache
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.dll
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\refint\AuthTesting.dll
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.pdb
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.genruntimeconfig.cache
+C:\Users\St Villagra\source\repos\Tarea\Tarea\obj\Debug\net8.0\ref\AuthTesting.dll
+C:\Users\Deiler\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.exe
+C:\Users\Deiler\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.deps.json
+C:\Users\Deiler\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.runtimeconfig.json
+C:\Users\Deiler\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.dll
+C:\Users\Deiler\source\repos\Tarea\Tarea\bin\Debug\net8.0\AuthTesting.pdb
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.AssemblyInfoInputs.cache
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.AssemblyInfo.cs
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.csproj.CoreCompileInputs.cache
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.dll
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\refint\AuthTesting.dll
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.pdb
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\AuthTesting.genruntimeconfig.cache
+C:\Users\Deiler\source\repos\Tarea\Tarea\obj\Debug\net8.0\ref\AuthTesting.dll
